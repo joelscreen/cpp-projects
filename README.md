@@ -14,7 +14,7 @@ cmake --build .
 
 # Main Project - Build (currently in progress)
 ## Description
-A multi-story based game, where many different stories are in one game.
+A multi-story based game, full of exciting adventures
 
 ## Base Story
 Save the universe, which is under control over the mastermind villain, Zaine.  Explore bizarre planets in order to craft the orb, in order to find the power crystal, by which you can save the universe and destroy Zaine's master plan
