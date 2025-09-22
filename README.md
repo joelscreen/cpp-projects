@@ -12,6 +12,19 @@ or
 cmake --build .
 ```
 
+# Main Project - Build (currently in progress)
+## Description
+A multi-story based game, where many different stories are in one game.
+
+## Base Story
+Save the universe, which is under control over the mastermind villain, Zaine.  Explore bizarre planets in order to craft the orb, in order to find the power crystal, by which you can save the universe and destroy Zaine's master plan
+
+## How to suggest a new story
+You can email quantalstudios@outlook.com to suggest a new story. Don't worry! Even if your story doesn't get accepted, you can suggest an update for an existing story
+
+## Contributors
+I'm not looking forward to hiring people, as I want this to be a solo/indie game, however you can leave a suggestion at quantalstudios@outlook.com or pull a request on this repo.
+
 ## Prerequisites
 - CMake
 - C++
@@ -25,7 +38,7 @@ git clone https://github.com/joelscreen/cpp-projects.git
 ```
 
 ## What I'm working on now
-A 3D shooter against a bot with a deep story behind it.
+A 2D shooter against a bot with a deep story behind it.
 
 ## Suggestion and bugs
 Feel free to give suggestions on features or code organizing by pulling a request. If you have any projects that I can work on, please pull up a request. Also pull up an issue if you find any bugs or error in the code. Your issue will be responded asap.
