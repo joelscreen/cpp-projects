@@ -25,7 +25,7 @@ git clone https://github.com/joelscreen/cpp-projects.git
 ```
 
 ## What I'm working on now
-- Space Defenders Infinity: Space Invaders with more features
+- Space Defenders Infinity: A Space Invader with unique missions.
 
 ## Suggestion and bugs
 Feel free to give suggestions on features or code organizing by pulling a request. If you have any projects that I can work on, please email. Also pull up an issue if you find any bugs or error in the code. Your issue will be responded asap.
