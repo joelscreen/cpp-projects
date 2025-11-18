@@ -35,4 +35,5 @@ You may use this project in your own projects and publish them, as long as you g
 
 ## Contact
 Email: joelmendonca.2602@gmail.com
+
 Discord: joelminecrafter
