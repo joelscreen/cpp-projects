@@ -1,6 +1,6 @@
 # cpp-projects
 ## Description
-a mix of different C++ projects that I made for practice
+A mix of different C++ projects that I made for practice
 
 ## How to use
 You must have C++ along with CMake to use this. Most projects have a workspace, which you can debug to run, but some require CMake
